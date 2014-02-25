@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
-require 'lib/circletime'
+require 'circletime'
 
 Circletime::Client.run
